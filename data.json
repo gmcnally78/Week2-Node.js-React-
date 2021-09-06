@@ -1,0 +1,14 @@
+[
+    {
+        "lastname":"Smith",
+        "link":"https://www.boisestate.edu"
+    },
+    {
+        "lastname":"Johnson",
+        "link":"https://www.tesla.com"
+    },
+    {
+        "lastname":"Brown",
+        "link":"https://www.codecademy.com"
+    }
+]
