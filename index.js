@@ -51,5 +51,6 @@ server.listen(
   port, host, () => {
     console.log(`Server is running on http://${host}:${port}`);
     //console.log("Server is running on http://" + host + ":" + port);
+    // This sure is a lot of info to retain. I am sure glad I took CS50C last semester.
   }
 ); 
